@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Daneilsen
 - 👀 I’m interested in Web Dev, Game Dev and Web3
 - 🌱 I’m currently learning Web development, Web scrapping, HTML, Javascript and Python
-- 💞️ I’m looking to collaborate on anything Crypto/Web3
 - 📫 How to reach me daneilsenens@gmail.com
