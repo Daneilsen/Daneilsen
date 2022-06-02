@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Daneilsen
-- 👀 I’m interested in Web Dev, Game Dev and Web3
-- 🌱 I’m currently learning Web development, Web scrapping, HTML, Javascript and Python
-- 📫 How to reach me daneilsenens@gmail.com
+- Computer Science Undergrad at California State University Los Angeles
+
