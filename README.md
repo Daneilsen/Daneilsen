@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm David Neilsen!
 
-Although I recently graduated with a degree in Computer Science, I know that the learning is never done. Currently seeking employement with opprotunities to contribute to meaningful projects, benefit from mentorship and expand my skillset. You can find more inforamation about my experience and interst below.
+Although I recently graduated with a degree in Computer Science, I know that the learning is never done. Currently seeking employement with opprotunities to contribute to meaningful projects, benefit from mentorship and expand my skillset. You can find more inforamation about my experience and interest below.
 
 ### 🎓 Education
 
